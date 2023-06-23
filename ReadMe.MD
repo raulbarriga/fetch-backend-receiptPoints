@@ -1,6 +1,7 @@
 # Commands to Run the Project (having Docker installed)
 ## Build the docker image 
 `docker build -t express-docker .`
+The docker image uses a Node.js container, providing npm & node installations.
 
 # run the image
 `docker run  -p 5000:5000 -d express-docker`

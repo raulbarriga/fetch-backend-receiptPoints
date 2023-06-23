@@ -1,7 +1,6 @@
 # Fetching the minified node image on apline linux
 FROM node:slim
 
-
 # Create app directory
 WORKDIR /express-docker
 
