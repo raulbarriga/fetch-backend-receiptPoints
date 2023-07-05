@@ -1,3 +1,5 @@
+This is the repo [link](https://github.com/fetch-rewards/receipt-processor-challenge) to the take home project guide.
+
 # Commands to Run the Project (having Docker installed)
 ## Build the docker image 
 `docker build -t express-docker .`
